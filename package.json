@@ -1,0 +1,23 @@
+{
+  "name": "Simple-BlackJack-CLI",
+  "version": "1.0.0",
+  "description": "We are building a Simple Blackjack App using the CLI to run our application.",
+  "main": "BlackJack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clam1987/Simple-BlackJack-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clam1987/Simple-BlackJack-CLI/issues"
+  },
+  "homepage": "https://github.com/clam1987/Simple-BlackJack-CLI#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
